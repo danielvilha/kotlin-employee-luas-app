@@ -1,6 +1,5 @@
 # RIM Employee LUAS App
 This is an app that shows *Stillorgan's Incoming* and *Marlborough Outgoing* trams.
-
 * This app only works if you run it on a device, I haven't had time yet to look at why it isn't running on an emulator.
 
 ### Overview
