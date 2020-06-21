@@ -1,9 +1,13 @@
 # RIM Employee LUAS App
 This is an app that shows *Stillorgan's Incoming* and *Marlborough Outgoing* trams.
-* This app only works if you run it on a device, I haven't had time yet to look at why it isn't running on an emulator.
 
 ### Overview
 Many people travel from the city center to the office using LUAS. To avoid waiting too long at the stops, people can use this app where you can see the forecast of the trams. This is a single screen app, using MVVM and architecture pattern, showing the direction of the trams, and there is a button for updating the information.
+* I had to update the calls HTTP to HTTPS because was giving an error.
+* This app only works if you run it on a device, I haven't had time yet to look at why it isn't running on an emulator.
+* This app utilize this calls in XML: 
+    * [Marlborough](https://luasforecasts.rpa.ie/xml/get.ashx?action=forecast&stop=mar&encrypt=false)
+    * [Stillorgan](https://luasforecasts.rpa.ie/xml/get.ashx?action=forecast&stop=sti&encrypt=false)
 
 ### Libraries used in the Project
 - [Lifecycle](https://developer.android.com/jetpack/androidx/releases/lifecycle)
