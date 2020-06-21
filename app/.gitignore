@@ -63,9 +63,6 @@ obj/
 /out/
 
 # User-specific configurations
-## .gitignore
-## vcs.xml
-## workspace.xml
 .idea/caches/
 .idea/libraries/
 .idea/shelf/

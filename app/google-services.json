@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671161622961",
+    "firebase_url": "https://rim-employee-luas-app.firebaseio.com",
+    "project_id": "rim-employee-luas-app",
+    "storage_bucket": "rim-employee-luas-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671161622961:android:2a0b87727ab3af2b2ddd90",
+        "android_client_info": {
+          "package_name": "com.danielvilha.luasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671161622961-vavbo0l9i1v3gm22395qi497ru3nusue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-vE1vyZvpY9-ePOMDrr3VxT3xTdhL9X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671161622961-vavbo0l9i1v3gm22395qi497ru3nusue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
