@@ -1,4 +1,4 @@
-# RIM Employee LUAS App
+# Kotlin LUAS App
 This is an app that shows *Stillorgan's Incoming* and *Marlborough Outgoing* trams.
 
 ### Overview
